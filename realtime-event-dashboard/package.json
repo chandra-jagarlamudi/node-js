@@ -1,0 +1,22 @@
+{
+  "name": "realtime-event-dashboard",
+  "version": "1.0.0",
+  "description": "Real time event dash board using Express, Socket.io",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express":"~4.15.2",
+    "socket.io":"~1.7.3",
+    "emptygif":"~0.1.1"
+  },
+  "keywords": [
+    "Realtime",
+    "dashboard",
+    "Express",
+    "Socket.io"
+  ],
+  "author": "Chandra Jagarlamudi",
+  "license": "ISC"
+}
